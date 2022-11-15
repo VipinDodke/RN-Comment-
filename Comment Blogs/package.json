@@ -1,0 +1,24 @@
+{
+  "name": "react-native-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@types/react": "16.9.46",
+    "@types/react-dom": "16.9.8",
+    "@types/react-native": "0.63.8",
+    "react": "18.2.0",
+    "react-dom": "16.13.1",
+    "react-native-web": "0.13.3",
+    "react-scripts": "3.4.1",
+    "uuidv4": "6.2.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
